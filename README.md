@@ -1,6 +1,6 @@
 # Day-10
 data engineer journey
-# Day 5 - [inventory]
+# Day 10 - [inventory]
 
 ## What I Learned
 - I learned to implement the dictionaries previously, honestly its a little obtuse how this is that different from list but I'll keep going
